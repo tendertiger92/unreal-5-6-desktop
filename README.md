@@ -1,3 +1,3 @@
 # Unreal 5.6
 
-Utility scaffolding.
+Placeholder README (LLM render failed).
